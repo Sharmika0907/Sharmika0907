@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Sharmika0907
+- I’m curious about learning new things.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Java Script.
+- 💞️ I’m looking to collaborate on projects based on web development.
+-  My new interests includes digital designing which is slowly channeling into video graphy.
+- 📫 If you like what you see and have a project you need coded, don’t hestiate to contact me
